@@ -1,1 +1,1 @@
-# ParikaCssHomeworks
+# PatikaCssHomeworks
