@@ -54,3 +54,7 @@ p {
   height: 50px;
   font-size: 15px;
 }
+.navbar {
+  display: flex;
+  justify-content: center;
+}
