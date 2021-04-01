@@ -1,0 +1,56 @@
+.home {
+  padding-top: 30vh;
+  height: 100vh;
+  background-image: linear-gradient(
+      rgb(45, 156, 219, 0.6),
+      rgba(155, 81, 224, 0.6)
+    ),
+    url(https://cdn.sanity.io/images/9kdepi1d/production/81188239f6ad3b9b8547a87e64dc3a140829026a-2048x1365.jpg?w=1000&h=667&fit=crop&fm=webp);
+}
+.bootcamp {
+  padding-top: 30vh;
+  height: 100vh;
+  background-repeat: round;
+  background-image: linear-gradient(
+      rgb(45, 156, 219, 0.6),
+      rgba(155, 81, 224, 0.6)
+    ),
+    url(https://cdn.sanity.io/images/9kdepi1d/production/6731e2636c8fe0494e49fff12b123dfe9542bbee-2832x1388.jpg?w=1000&h=490&fit=crop&fm=webp);
+}
+.about {
+  padding-top: 30vh;
+  height: 100vh;
+  background-repeat: round;
+  background-image: linear-gradient(
+      rgb(45, 156, 219, 0.6),
+      rgba(155, 81, 224, 0.6)
+    ),
+    url(https://cdn.sanity.io/images/9kdepi1d/production/adc5ba76d85bf2af717070a93e3dceabf2064b8d-5211x3070.jpg?w=1000&h=589&fit=crop&fm=webp);
+}
+.basvur {
+  color: white;
+  background-color: rgb(252, 154, 89);
+  font-weight: bold;
+  border: none;
+  border-radius: 50px;
+  width: 130px;
+  height: 60px;
+  font-size: 20px;
+}
+p {
+  font-size: medium;
+}
+.onbasvuru {
+  color: white;
+  padding-inline: 3rem;
+  background: linear-gradient(
+    90deg,
+    rgba(45, 156, 219, 0.6),
+    rgba(155, 81, 224, 0.6)
+  );
+  font-weight: bold;
+  border: none;
+  border-radius: 50px;
+  height: 50px;
+  font-size: 15px;
+}
